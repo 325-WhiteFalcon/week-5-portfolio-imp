@@ -1,0 +1,110 @@
+
+/*body to be blue*/
+
+body {
+		background-color:#00ffff
+		
+		
+	}
+	
+	header {
+			width: 95%;
+			margin: auto;
+			}
+	
+ img {
+		background-position: center;
+		background-size: cover;
+		background-image: url("images/cool.jpg");
+		min-height: 75%;
+		padding: 1%;
+		border: 2px solid black;
+
+		
+	}
+
+	a:hover { text-decoration: underline; font-size: 2em}
+
+/* border of nav to be solid, float to the right*/
+		
+	nav ul {	
+			position: fixed;
+			bottom: 830px;
+			right: 100px;
+			border-style: solid;
+			width: 200px;
+			background-color: #0099ff;
+			list-style-type: none;
+			font-family: 'Gochi Hand', cursive;
+			
+	}
+		
+	aside { float: center;
+	
+	}	
+		/*walt's European churhes tours*/
+		
+	h1{	
+			background-color: #80bfff;
+			text-align: center;
+			border: 2px solid black;
+			width: 100%;
+			padding: 20px;
+			font-family: 'Permanent Marker', cursive;
+			color: blue;	
+		
+		}
+	
+		/*top 8 european cities*/
+		
+	ul {	
+			position: sticky;
+			background-color: #9966ff;
+			border: 2px solid #000000;
+			width: 30%;
+			list-style-type: none;
+			font-family: 'Permanent Marker', cursive;		
+			
+			}
+	
+
+	
+	h2 { 
+			background-color: #668099;
+			text-align: center;
+			border: 2px solid black;
+			width: auto;
+			padding: 20px;
+			font-family: 'Gochi Hand', cursive;
+			color: blue;
+		}
+	
+	
+	p  { 
+		
+			background-color: #6699ff;
+			border: 5px solid #0073e6;
+			border: radius 450px;
+			margin-top: 50px;
+			margin-bottom: 50px;
+			margin-right: 50px;
+			margin-left: 50px;
+			font-family: 'Amatic SC', cursive;
+			word-spacing:2px;
+			font-size; 10%;
+		
+		}
+	
+	
+	
+	
+	Footer {  
+		font-family: 'Gochi Hand', cursive;	
+		margin: auto;
+		width: 20%px;
+		border: 1px;
+		text-align: center;
+		list-style-type: none;}
+		
+	
+	
